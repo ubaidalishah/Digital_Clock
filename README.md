@@ -53,11 +53,7 @@ When you run the script, you will see a graphical window displaying the current 
 
 ---
 
-## 📚 License
 
-This project is licensed under the MIT License. Feel free to use and modify it as needed.
-
----
 
 ## 🚀 Contributions
 
